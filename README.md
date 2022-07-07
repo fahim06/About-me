@@ -2,6 +2,7 @@
 
 ---
 
+
 <h3 align="center">A dreamer, who wants to fulfill his dream on his own. :cloud:I have a special interest in Machine Learning. :wink:</h3>
 
 - 🔭 I’m currently working on [Brain Tumor Detection](https://github.com/fahim06/Brain_Tumor)
@@ -16,6 +17,7 @@
 - 📄 Know about my experiences **[Here](cv.fahimyusuf.com)**
 
 - ⚡ Fun fact **I think I am funny**
+
 ---
 
 <h3 align="left">Connect with me:</h3>
@@ -34,10 +36,6 @@
 
 ---
 
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahim06&show_icons=true&locale=en&layout=compact" alt="fahim06"/> </p>
 
-
----
-
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahim06&show_icons=true&locale=en" alt="fahim06" /></p>
+<p> &nbsp &nbsp<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahim06&show_icons=true&locale=en&layout=compact" alt="fahim06" /></p>
+<p> &nbsp &nbsp<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahim06&show_icons=true&locale=en" alt="fahim06" /></p>
