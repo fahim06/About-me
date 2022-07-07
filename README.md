@@ -60,10 +60,10 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/f
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
----
----
 
 <br/>
+---
+---
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
