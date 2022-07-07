@@ -38,10 +38,4 @@
 
 
 <p> &nbsp &nbsp<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahim06&show_icons=true&locale=en&layout=compact" alt="fahim06" /></p>
-
-
----
-
-
-
 <p> &nbsp &nbsp<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahim06&show_icons=true&locale=en" alt="fahim06" /></p>
