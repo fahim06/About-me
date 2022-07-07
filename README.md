@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fahim Yusuf</h1>
+
+---
+
 <h3 align="center">A dreamer, who wants to fulfill his dream on his own. :cloud:I have a special interest in Machine Learning. :wink:</h3>
 
 - 🔭 I’m currently working on [Brain Tumor Detection](https://github.com/fahim06/Brain_Tumor)
