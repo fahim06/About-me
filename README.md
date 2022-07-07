@@ -1,13 +1,11 @@
-# Fahim Yusuf
+<!-- # Fahim Yusuf
 
+### Hi there, I'm Toufiq 👋
 
-### Hey Yusuf here 👋
+## I'm a Engineer!!
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
 
 A dreamer, who wants to fulfill his dream on his own. :cloud:I have a special interest in Machine Learning. :wink:
  
@@ -60,7 +58,9 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/f
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 ---
+
 <br/>
 
 
@@ -74,3 +74,4 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 [twitter]: https://twitter.com/fahim1206
 [instagram]: https://www.instagram.com/__amfy06__/
 [linkedin]: https://www.linkedin.com/in/fahim06/
+ -->
