@@ -68,9 +68,9 @@
 ### 🔥 &nbsp; My Stats :
 <div align="center">
   <a href="https://github.com/fahim06">
-    <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahim06&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="fahim06" /> 
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=fahim06&layout=compact&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="fahim06" />
-    <img height="180em" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fahim06&theme=dark&background=000000&include_all_commits=true&count_private=true" alt="fahim06" />
+    <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahim06&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" alt="fahim06" /> 
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=fahim06&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" />
+    <img height="180em" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fahim06&theme=tokyonight&include_all_commits=true&count_private=true" alt="fahim06" />
   </a>
 </div>
 
