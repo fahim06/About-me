@@ -59,7 +59,7 @@
 ---
 <p>
   <a href="https://github.com/fahim06">
-    <img src="https://activity-graph.herokuapp.com/graph?username=fahim06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="fahim06" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=fahim06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="fahim06" />
   </a>
 </p>
 
