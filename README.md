@@ -54,10 +54,10 @@
 
 ---
 
-<p align="left"> 
-  <a href="https://github.com/fahim06">
-    <img src="https://github-profile-trophy.vercel.app/?username=fahim06&include_all_commits=true&count_private=true" alt="fahim06" />
-  </a> 
+## Trophies 🏆
+
+<p align="left">
+<img width=1000 src="https://github-profile-trophy.vercel.app/?username=fahim06&column=7&theme=gruvbox&no-frame=true"/>
 </p>
 
 ---
